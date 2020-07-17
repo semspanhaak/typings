@@ -74,6 +74,9 @@ available languages:
 - `punjabi`
 - `french`
 - `portuguese`
+- `finnish`
+- `dutch`
+
 
 ## typing mode
 
